@@ -1,4 +1,20 @@
-[
+
+
+  {
+    "name": "Alice",
+    "skills": [
+      "Python"
+    ],
+    "exp": 5
+  }
+  {
+    "name": "Bob",
+    "skills": [
+      "Java"
+    ],
+    "exp": 3
+  }
+
   {
     "name": "Alice",
     "skills": [
@@ -13,4 +29,3 @@
     ],
     "exp": 3
   }
-]
